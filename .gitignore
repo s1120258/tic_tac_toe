@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+
+# Debugging files
+*.d
+
+# Core dumps
+core
+
