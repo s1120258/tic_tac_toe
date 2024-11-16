@@ -8,7 +8,7 @@ https://en.wikipedia.org/wiki/Tic-tac-toe
 * The game is drawn, if all grids are filled with X or O letters but no line is made.
 
 # How To Run
-* clang++ -o main.exe main.cpp
+* clang++ -o main.exe main.cpp TicTacToe.cpp
 * ./main.exe
 
 # How To Play
